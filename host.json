@@ -8,7 +8,7 @@
     "fileLoggingMode": "debugOnly",
     "logLevel": {
       "Function.MyFunction": "Information",
-      "default": "Information"
+      "default": "Warning"
     },
     "applicationInsights": {
       "samplingSettings": {
